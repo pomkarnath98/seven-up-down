@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+#displayresult {
+  position: absolute;
+  top: 20%;
+  left: 35%;
+  border: 1px solid wheat;
+  color: wheat;
+  font-size: 50px;
+  padding: 10px;
+  border-radius: 10px;
+  transform: rotate(-20deg);
+  display: none;
+}
